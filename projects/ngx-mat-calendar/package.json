@@ -1,0 +1,12 @@
+{
+  "name": "ngx-mat-calendar",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^13.3.0",
+    "@angular/core": "^13.3.0"
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "tslib": "^2.3.0"
+  }
+}
